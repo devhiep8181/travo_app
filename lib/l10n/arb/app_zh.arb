@@ -1,0 +1,15 @@
+{
+    "@@locale": "zh",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "home" : "主页",
+    "subTitileHome" : "接下来你要去哪里？",
+    "searchText" : "搜索您的目的地",
+    "hotelModelText" : "酒店",
+    "flightsModelText" : "航班",
+    "allModelText" : "全部",
+    "darkModeText" : "深色模式",
+    "changeLanguage" : "更改语言 中文"
+}
