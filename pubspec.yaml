@@ -37,7 +37,7 @@ dependencies:
     path: package/image_picker
   import_sorter: ^4.6.0 
   intl: ^0.18.0
-  logger: ^2.1.0
+  logger: ^2.3.0
   lottie: ^3.1.0
   path_provider: ^2.1.2
   uuid: ^4.3.3
